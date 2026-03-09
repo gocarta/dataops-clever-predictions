@@ -13,7 +13,8 @@ The pipeline runs every minute.
 | **stpid** | `2168` | The unique stop id |
 | **vid** | `171` | The unique internal identifier for the vehicle |
 | **rt** | `"1"` | The designated route number or shorthand name for the service |
-| **prdtm** | `" 20260308 18:29"` | The predicted arrival time |
+| **tatripid** | `"264266"` | The unique trip id |
+| **prdtm** | `"20260308 18:29"` | The predicted arrival time |
 
 ## download links
 - [metadata](https://gocarta.s3.us-east-2.amazonaws.com/public/data/clever_predictions/v1/meta.json)
